@@ -7,7 +7,7 @@ var ha,ma,sa;
 
 
 function setup() {
-  createCanvas(400,400);
+  createCanvas(displayWidth,displayHeight);
   angleMode(DEGREES)
 
   
